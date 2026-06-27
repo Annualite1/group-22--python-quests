@@ -5,5 +5,6 @@ elif score <= 89 and score >= 80:
 	print ("B")
 elif score <=79 and score >= 70:
 	print ("C")
-else :
+elif score<70 :
 	 print ("Needs Improvement")
+else: print ("Invalid Input, please enter numbers only from 0-100")
