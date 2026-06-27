@@ -1,0 +1,5 @@
+score = int(input("Enter score between 0-100")
+if score <=100 AND >=90: print ("A")
+elif score <= 89 AND >=80: print ("B")
+elif score <=79 AND >=70: print ("C")
+else : print ("Needs Improvement")
