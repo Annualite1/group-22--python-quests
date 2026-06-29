@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+# Quest 22: Personalized Scroll
 def personalized_greeting(name, quest):
     print(f"{name}, your quest is {quest}.")
 
