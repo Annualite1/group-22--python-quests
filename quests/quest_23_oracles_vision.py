@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+# Quest 23: Oracle's Vision
 def calculate_area(length, width):
     return length * width
 
